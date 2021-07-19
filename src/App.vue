@@ -39,7 +39,7 @@ export default {
   name: 'App',
   data() {
     return {
-      api_key: '2390654181588abc162bfa263526708c',
+      api_key: 'your-api-key-here',
       query: '',
       weather: {},
       errorMessage: ''
