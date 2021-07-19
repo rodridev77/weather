@@ -1,24 +1,19 @@
-# app-weather
+# Projeto Clima-tempo
 
-## Project setup
-```
-npm install
-```
+##  Tecnologias Utilizadas
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+* Laravel 8
+* PHP 7.4
+* VueJs 2
+* SQL
+* Javascript
+* HTML 5
+* CSS 3
+* Apache 2.4
+* MariaDB 10.4
+* Bootstrap 4.0
+* Axios
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Sobre
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Apenas uma simples SPA client que mostra a temperatura e o clima atual de mais de 500 cidades ao redor do mundo.
